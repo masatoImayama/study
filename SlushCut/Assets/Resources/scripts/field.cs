@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿//テストコメントの追加
+using UnityEngine;
 using System.Collections;
 
 [RequireComponent(typeof(Rigidbody2D))]
